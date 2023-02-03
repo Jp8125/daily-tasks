@@ -1,0 +1,4 @@
+declare variable area and radius
+ask user toenter the radius
+calculate the area using the equation area=3.14*radius*radius
+print the radius 

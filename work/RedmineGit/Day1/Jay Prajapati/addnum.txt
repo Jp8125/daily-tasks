@@ -1,0 +1,5 @@
+declare three variables num1,num2 and sum.
+ask user to enter the first number 
+ask user to enter second number 
+calculate the sum of two numbers
+print the sum.

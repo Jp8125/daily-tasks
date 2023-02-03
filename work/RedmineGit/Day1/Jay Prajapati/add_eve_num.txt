@@ -1,0 +1,7 @@
+declare three variables sum,n and i
+initialize the sum to zero
+take how many num user wants to sum.
+from i=0 to n repeat following steps
+    1. if the i is even then
+            add the i into the sum
+print the sum 
